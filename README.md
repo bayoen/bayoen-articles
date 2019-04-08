@@ -8,5 +8,9 @@
 
 # Project info.
 ## project-bayoen
+- Started: 2018-09-06
 - Original Idea by: minacle
 - Starting Members: semir4in, minacle
+- Contact Us
+   - Discord Community: http://discord.gg/u7pmBr6
+   - Mail: the.semirain@gmail.com
